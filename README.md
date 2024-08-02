@@ -21,6 +21,7 @@ Database: Cloud-based solutions for scalability and reliability.
 Conducted surveys and polls to gather user requirements.
 Defined business needs, requirements, and potential impact.
 **2. Design**
+![Screenshot 2024-08-02 212547](https://github.com/user-attachments/assets/2f6f4755-240e-42a0-8235-37cbaf38a4a2)
 Created wireframes and interactive prototypes using Figma.
 Developed a system architecture encompassing the mobile app, backend server, and AI models.
 **3. Implementation**
@@ -47,3 +48,20 @@ Received positive feedback from users for the intuitive interface and useful fea
 ## Supervisors and Consultants
 **Supervisors:** Dr. Ahmed Rafat, E. Abdelrahman Fathy.
 **Agricultural Consultant:** Dr. Soha Sabry (Plant Pathology Department, Faculty of Agriculture, Zagazig University).
+
+
+## Future Work
+​**Feature Enhancements:​**
+Expanding the AI model to recognize more plant diseases.​
+Adding community features for user interaction and support.​
+
+**Research and Development:​**
+Exploring advanced AI techniques for even higher accuracy.​
+Continuous improvement of the user interface and user experience.​
+
+**New Collaborations:​**
+Partnering with agricultural experts and institutions for further validation and enhancement.​
+
+​
+
+​
