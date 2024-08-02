@@ -38,6 +38,7 @@ Released the mobile application for user access.
 Successfully developed and launched a comprehensive plant care application.
 Achieved high accuracy in disease diagnosis through the use of advanced deep learning models.
 Received positive feedback from users for the intuitive interface and useful features.
+![Screenshot 2024-07-24 012506](https://github.com/user-attachments/assets/232ac447-d058-4ee3-8313-c171d52bb607)
 
 ## Team Contributions
 **Team Leader & AI Specialist:** Led a team of six members, developed deep learning models, and designed the UI/UX.
