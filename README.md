@@ -43,5 +43,5 @@ Received positive feedback from users for the intuitive interface and useful fea
 **Collaboration:** Worked closely with backend and frontend developers to ensure seamless integration and functionality.
 
 ## Supervisors and Consultants
-**Supervisors:** Dr. Ahmed Rafat, E. Abdelrahman Fathy
-**Agricultural Consultant:** Dr. Soha Sabry (Plant Pathology Department, Faculty of Agriculture, Zagazig University)
+**Supervisors:** Dr. Ahmed Rafat, E. Abdelrahman Fathy.
+**Agricultural Consultant:** Dr. Soha Sabry (Plant Pathology Department, Faculty of Agriculture, Zagazig University).
