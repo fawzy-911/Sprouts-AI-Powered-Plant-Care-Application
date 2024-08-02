@@ -1,5 +1,5 @@
 # Sprouts: AI-Powered Plant Care Application
-                                            ![logo](https://github.com/user-attachments/assets/5dca1f34-154f-4a52-9ae7-c9381957dc20)
+![logo](https://github.com/user-attachments/assets/5dca1f34-154f-4a52-9ae7-c9381957dc20)
 
 ## Project Overview
 **Sprouts is an AI-powered mobile application designed to diagnose plant diseases, provide treatment recommendations, and offer general care guidance for various plant species.
