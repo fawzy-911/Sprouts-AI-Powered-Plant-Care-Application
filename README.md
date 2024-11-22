@@ -68,7 +68,7 @@
 - **Collaboration:** Worked closely with frontend and backend developers to ensure seamless integration.
 
 ### **Supervisors and Consultants**
-- **Supervisors:** Dr. Ahmed Rafat, E. Abdelrahman Fathy  
+- **Supervisors:** Dr. Ahmed Rafat
 - **Agricultural Consultant:** Dr. Soha Sabry (Plant Pathology Department, Faculty of Agriculture, Zagazig University)
 
 ---
@@ -88,4 +88,37 @@
 ---
 
 ## 📂 Repository Structure
-Sprouts/ ├── backend/ # Flask application and AI model │ ├── app.py # Main server file │ ├── models/ # Saved TensorFlow models │ ├── requirements.txt ├── frontend/ # Mobile app built with Flutter │ ├── lib/ # Flutter source code │ ├── pubspec.yaml ├── docs/ # Documentation and assets │ ├── screenshots/ # Screenshots for README │ ├── promo.mp4 # Promotional video └── 
+Sprouts/ 
+├── backend/ # Flask application and AI model │ 
+├── app.py # Main server file │ 
+├── models/ # Saved TensorFlow models │ 
+├── requirements.txt 
+├── frontend/ # Mobile app built with Flutter │ 
+├── lib/ # Flutter source code │ 
+├── pubspec.yaml 
+├── docs/ # Documentation and assets │ 
+├── screenshots/ # Screenshots for README │ 
+├── promo.mp4 # Promotional video └── 
+
+
+
+
+---
+
+## 🌐 Demo
+Watch the promotional video [here](https://github.com/user-attachments/assets/promo.mp4).
+
+*(Add a link to a live demo or deployment if available.)*
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## ❤️ Acknowledgments
+- Special thanks to our amazing team and academic supervisors.
+- Dataset sourced from [Kaggle](https://www.kaggle.com) and other reliable platforms.
+
+
