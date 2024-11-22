@@ -88,3 +88,4 @@
 ---
 
 ## 📂 Repository Structure
+Sprouts/ ├── backend/ # Flask application and AI model │ ├── app.py # Main server file │ ├── models/ # Saved TensorFlow models │ ├── requirements.txt ├── frontend/ # Mobile app built with Flutter │ ├── lib/ # Flutter source code │ ├── pubspec.yaml ├── docs/ # Documentation and assets │ ├── screenshots/ # Screenshots for README │ ├── promo.mp4 # Promotional video └── 
